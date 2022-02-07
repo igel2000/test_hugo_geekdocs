@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /tags/*
-
-Sitemap: http://www.domain.test:90/test_hugo_geekdocs/sitemap.xml

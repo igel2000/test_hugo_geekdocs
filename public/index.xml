@@ -1,20 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Example on Test hugo-ggekdoc</title>
-    <link>http://www.domain.test:90/test_hugo_geekdocs/</link>
-    <description>Recent content in Example on Test hugo-ggekdoc</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ru-ru</language>
-    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.domain.test:90/test_hugo_geekdocs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>http://www.domain.test:90/test_hugo_geekdocs/_includes/included/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.domain.test:90/test_hugo_geekdocs/_includes/included/</guid>
-      <description>Inculded file      sequenceDiagramAlice-Bob: It doesnt&#39; work In include ...  Dolor sit, sumo unique argument um no. Gracie nominal id xiv. Romanesque acclimates investiture. Ornateness bland it ex enc, est yeti am bongo detract re. Pro ad prompts feud gait, quid exercise emeritus bis e. In pro quints consequent, denim fastidious copious quo ad. Stet probates in duo.   # some code echo &amp;#34;Hello included&amp;#34; </description>
-    </item>
-    
-  </channel>
-</rss>
